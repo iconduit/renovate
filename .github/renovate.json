@@ -1,0 +1,9 @@
+{
+  "extends": ["github>iconduit/renovate"],
+
+  "allowedPostUpgradeCommands": [],
+  "autodiscover": true,
+  "gitAuthor": "Iconduit Renovate <147789725+iconduit-renovate[bot]@users.noreply.github.com>",
+  "onboarding": false,
+  "username": "iconduit-renovate[bot]"
+}
