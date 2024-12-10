@@ -16,7 +16,7 @@
   "gitAuthor": "Iconduit Renovate <147789725+iconduit-renovate[bot]@users.noreply.github.com>",
   "labels": ["renovate"],
   "pinDigests": false,
-  "platformCommit": true,
+  "platformCommit": "enabled",
   "postUpdateOptions": ["npmDedupe"],
   "reviewers": ["team:renovate-reviewers"],
 
